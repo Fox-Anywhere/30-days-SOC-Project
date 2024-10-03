@@ -1,9 +1,39 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="Pagina-1" id="3qMvsKIljHVbcYe3DlI8">
-    <mxGraphModel>
+    <mxGraphModel dx="1434" dy="744" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="nnkpt4qae2ps1eeqjS65-7" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="152" y="300" width="552.35" height="550" as="geometry" />
+        </mxCell>
+        <mxCell id="nnkpt4qae2ps1eeqjS65-8" value="VULTR" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="180" y="320" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nnkpt4qae2ps1eeqjS65-9" value="&lt;span style=&quot;color: rgb(35, 47, 62);&quot;&gt;Elastik &amp;amp;&lt;/span&gt;&lt;div style=&quot;color: rgb(35, 47, 62);&quot;&gt;Kibana&lt;/div&gt;" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.traditional_server;fillColor=#7D7C7C;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="224.92000000000002" y="442.22" width="50" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nnkpt4qae2ps1eeqjS65-17" value="&lt;span style=&quot;color: rgb(35, 47, 62);&quot;&gt;Windwos Server&lt;/span&gt;&lt;div style=&quot;color: rgb(35, 47, 62);&quot;&gt;RDP Enabled&lt;/div&gt;" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.traditional_server;fillColor=#7D7C7C;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="316" y="439.22" width="46.5" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="nnkpt4qae2ps1eeqjS65-18" value="&lt;span style=&quot;color: rgb(35, 47, 62);&quot;&gt;Ubuntu Server&lt;/span&gt;&lt;div style=&quot;color: rgb(35, 47, 62);&quot;&gt;SSH Enabled&lt;/div&gt;" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.traditional_server;fillColor=#7D7C7C;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="406" y="439.22" width="46.5" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="nnkpt4qae2ps1eeqjS65-19" value="&lt;span style=&quot;color: rgb(35, 47, 62);&quot;&gt;Fleet Server&lt;/span&gt;" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.traditional_server;fillColor=#7D7C7C;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="495" y="439.22" width="46.5" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="nnkpt4qae2ps1eeqjS65-26" value="VPC" style="sketch=0;outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_vpc;strokeColor=#879196;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#879196;dashed=0;" vertex="1" parent="1">
+          <mxGeometry x="186" y="350" width="474" height="430" as="geometry" />
+        </mxCell>
+        <mxCell id="nnkpt4qae2ps1eeqjS65-20" value="&lt;span style=&quot;color: rgb(35, 47, 62);&quot;&gt;osTicket Server&lt;/span&gt;" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.traditional_server;fillColor=#7D7C7C;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="584.92" y="439.22" width="46.5" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="nnkpt4qae2ps1eeqjS65-21" value="&lt;span style=&quot;color: rgb(35, 47, 62);&quot;&gt;C2 Server&lt;/span&gt;" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.traditional_server;fillColor=#FF3333;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="750" y="240" width="46.5" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="nnkpt4qae2ps1eeqjS65-25" value="VPC= Virtual Private Cloud" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelPosition=center;verticalLabelPosition=middle;" vertex="1" parent="1">
+          <mxGeometry x="40" y="110" width="220" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

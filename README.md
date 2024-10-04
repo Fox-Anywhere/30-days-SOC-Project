@@ -25,10 +25,48 @@ Reccomendetion: I'm at the start of my studing/carrer in cybersecurity, and prob
 -->
 ## Steps
 <!--drag & drop screenshots here or use imgur and reference them using imgsrc -->
-<h3>Network Diagram</h2>
+<h3>Day 1: Network Diagram</h2>
 <p>We will create a diagram of the network to have all the info about it written down.</p>
 
 <img src="https://github.com/user-attachments/assets/d113bf72-e69c-4a08-b598-ae55e36a476f" alt="Ref 1: Network Diagram">
 <p>Ref 1: Network Diagram</p>
 
+<h3>Day 2: ELK Stack Introduction</h3>
+
+<p>For collecting telemetric there are two popular ways, that are: <b>Beats</b> and <b>Elastic Agents</b>.</p>
+
+<div>
+  <table border="1" cellpadding="10">
+    <tr>
+      <th><b>Types of Beats</b></th>
+      <th><b>Description</b></th>
+    </tr>
+    <tr>
+      <td>File Beat</td>
+      <td>Logs</td>
+    </tr>
+    <tr>
+      <td>Metric Beat</td>
+      <td>Metrics</td>
+    </tr>
+    <tr>
+      <td>Packet Beat</td>
+      <td>Network Data</td>
+    </tr>
+    <tr>
+      <td>Winlog Beat</td>
+      <td>Windows Event</td>
+    </tr>
+    <tr>
+      <td>Audit Beat</td>
+      <td>Audit Data</td>
+    </tr>
+    <tr>
+      <td>Heartbeat Beat</td>
+      <td>Uptime</td>
+    </tr>
+  </table>
+</div>
+
+<h3>Day 3: Elasticsearch setup</h3>
 

@@ -22,10 +22,13 @@ Reccomendetion: I'm at the start of my studing/carrer in cybersecurity, and prob
 - Security Information and Event Management (SIEM) system for log ingestion and analysis.
 - Network analysis tools (such as Wireshark) for capturing and examining network traffic.
 - Telemetry generation tools to create realistic network traffic and attack scenarios.
-
+-->
 ## Steps
 <!--drag & drop screenshots here or use imgur and reference them using imgsrc -->
+<h3>Network Diagram</h2>
+<p>We will create a diagram of the network to have all the info about it written down.</p>
 
-<img src="/mnt/data/Network_Diagram.webp" alt="Ref 1: Network Diagram">
+<img src="https://github.com/user-attachments/assets/d113bf72-e69c-4a08-b598-ae55e36a476f" alt="Ref 1: Network Diagram">
 <p>Ref 1: Network Diagram</p>
-*Ref 1: Network Diagram*
+
+
